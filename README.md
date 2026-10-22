@@ -6,5 +6,5 @@ Senior Software Engineer at [Slice](https://slice.com), working remotely from Sc
 - **Day to day:** Python, TypeScript, AWS, Linux
 - **Also:** Terraform, Docker, Kubernetes, React, GraphQL
 - **After hours:** homelab, a local Kubernetes cluster, Home Assistant, Nix, and a small fleet of bots
-- **Previously:** Administrate, PODFather
+- **Previously:** [Administrate](https://getadministrate.com), [PODFather](https://thepodfather.com)
 - **Elsewhere:** [wilkins.tech](https://wilkins.tech) · [blog](https://wilkins.tech/blog/) · [LinkedIn](https://www.linkedin.com/in/jonathan-wilkins-edi/)
